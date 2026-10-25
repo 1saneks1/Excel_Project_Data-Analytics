@@ -4,7 +4,7 @@ I'm providing my two Excel projects in this repository to demonstrate my skills.
 
 ## Salary Dashboard
 This data jobs salary dashboard was created to help job seekers investigate salaries for their desired jobs and ensure they are being adequately compensated.  
-[Check out my work here] - [1_Salary_Dashboard.xlsx](https://github.com/user-attachments/files/33937678/1_Salary_Dashboard.xlsx)
+[Check out my work here](Project_1-Dashboard)
 
 <img width="1347" height="619" alt="1_Salary_Dashboard" src="https://github.com/user-attachments/assets/f5ed82b7-248e-495b-a602-8a11e369e690" />  
 
