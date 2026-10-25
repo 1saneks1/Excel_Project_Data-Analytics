@@ -10,7 +10,7 @@ This data jobs salary dashboard was created to help job seekers investigate sala
 
 ## Salary Analysis
 I set out to understand what skills top employers request and how to land more pay.  
-[Check out my work here] - [1_Project_Analysis.xlsx](https://github.com/user-attachments/files/33937811/1_Project_Analysis.xlsx)  
+[Check out my work here](Project_2-Analysis)
 
 <img width="862" height="452" alt="2_Project_Analysis_Chart4" src="https://github.com/user-attachments/assets/5c49ab28-b593-45c5-942a-ba72cf604422" />  
 
